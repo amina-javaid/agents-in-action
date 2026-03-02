@@ -41,4 +41,11 @@ A **Product Launch Intelligence System** for a fictional fintech startup (NovaPa
 
 ---
 
+## 🎓 Ready to Level-Up?
+Join our courses on Maven and never stop learning:
+- 🤖 [Agentic AI System Design for PMs — _For Leaders, Managers & Career Builders_](https://maven.com/boring-bot/ml-system-design?promoCode=201OFF)
+- 💻 [Agent Engineering Bootcamp: Developers Edition — _For Developers, Engineers & Researchers_](https://maven.com/boring-bot/advanced-llm?promoCode=200OFF)
+
+---
+
 *Part of the Agentic AI System Design for PMs course.*
